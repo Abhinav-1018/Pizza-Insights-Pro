@@ -1,0 +1,44 @@
+item_id,sku,item_name,item_category,item_price,item_size
+it_001,PIZZ-MARG-R,Pizza Margherita Reg,Pizza,12,Regular
+it_002,PIZZ-MARG-L,Pizza Margherita Large,Pizza,14,Large
+it_003,PIZZ-DIAV-R,Pizza Diavola (hot) Reg,Pizza,16,Regular
+it_004,PIZZ-DIAV-L,Pizza Diavola (hot) Large,Pizza,19,Large
+it_005,PIZZ-PARM-R,Pizza Parmigiana Reg,Pizza,15,Regular
+it_006,PIZZ-PARM-L,Pizza Parmigiana Large,Pizza,18,Large
+it_007,PIZZ-QUAT-R,Pizza Quattro Formaggi Reg,Pizza,16,Regular
+it_008,PIZZ-QUAT-L,Pizza Quattro Formaggi Large,Pizza,19,Large
+it_009,PIZZ-NAPO-R,Pizza Napolitana Reg,Pizza,16,Regular
+it_010,PIZZ-NAPO-L,Pizza Napolitana Large,Pizza,18,Large
+it_011,PIZZ-PEPP-R,Pizza Pepperoni Reg,Pizza,15,Regular
+it_012,PIZZ-PEPP-L,Pizza Pepperoni Large,Pizza,17,Large
+it_013,PIZZ-SEAF-R,Pizza Seafood Reg,Pizza,17,Regular
+it_014,PIZZ-SEAF-L,Pizza Seafood Large,Pizza,20,Large
+it_015,PIZZ-HAWA-R,Pizza Hawaiian Reg,Pizza,15,Regular
+it_016,PIZZ-HAWA-L,Pizza Hawaiian Large,Pizza,17,Large
+it_017,SIDE-GARL-R,Garlic Bread,Side,6,Regular
+it_018,SIDE-CHIC-R,Chicken Wings,Side,7,Regular
+it_019,SIDE-BREA-R,Breadsticks,Side,5,Regular
+it_020,SIDE-CAES-R,Caesar Salad,Side,7,Regular
+it_021,DESS-ICE-CHOC,Vanilla Ice cream,Dessert,6,Regular
+it_022,DESS-ICE-VANI,Chocolate Ice cream,Dessert,6,Regular
+it_023,DESS-ICE-STRA,Strawberry Ice cream,Dessert,6,Regular
+it_024,DESS-ICE-PIST,Pistachio Ice cream,Dessert,6,Regular
+it_025,DESS-CHOC-BROW,Chocolate Brownie,Dessert,5,Regular
+it_026,DESS-BANO-PIE,Banoffee Pie,Dessert,7,Regular
+it_027,DESS-FRUI-SALA,Fruit Salad,Dessert,5,Regular
+it_028,BEVA-CC-REG33,Coca Cola Regular 33cl,Drink,3,33cl
+it_029,BEVA-CC-REG1500,Coca Cola Regular 1.5l,Drink,6,1.5l
+it_030,BEVA-CC-DIE33,Coca Cola Diet 33cl,Drink,3,33cl
+it_031,BEVA-CC-DIE1500,Coca Cola Diet 1.5l,Drink,6,1.5l
+it_032,BEVA-7U-REG33,Sprite Regular 33cl,Drink,3,33cl
+it_033,BEVA-7U-REG1500,Sprite Regular 1.5l,Drink,6,1.5l
+it_034,BEVA-7U-DIE33,Sprite Diet 33cl,Drink,3,33cl
+it_035,BEVA-7U-DIE1500,Sprite Diet 1.5l,Drink,6,1.5l
+it_036,BEVA-FAN-REG33,Fanta Regular 33cl,Drink,3,33cl
+it_037,BEVA-FAN-REG1500,Fanta Regular 1.5l,Drink,6,1.5l
+it_038,BEVA-FAN-DIE33,Fanta Diet 33cl,Drink,3,33cl
+it_039,BEVA-FAN-DIE1500,Fanta Diet 1.5l,Drink,6,1.5l
+it_040,BEVA-SAN-REG33,San Pelligrino 33cl,Drink,2,33cl
+it_041,BEVA-SAN-REG1500,San Pelligrino 1.5l,Drink,4,1.5l
+it_042,BEVA-PER-REG33,Perrier 33cl,Drink,2,33cl
+it_043,BEVA-PER-REG1500,Perrier 1.5l,Drink,4,1.5l
